@@ -108,5 +108,4 @@ func IpInfo() {
 
 func main() {
 	IpInfo()
-	time.Sleep(time.Hour)
 }
